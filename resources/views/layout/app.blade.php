@@ -14,9 +14,9 @@
   @livewireStyles
 </head>
 <body class="flex w-full bg-gw-green pb-2 h-10 h-screen">
-  <div class="w-full border-b-2 border-gry-600">
-    <div class="flex w-full">
-      <img src="{{asset('images/gw_vlag.svg')}}" class="w-full h-20" />
+  <div class="w-full border-b-2 border-gry-600 bg-gray-100">
+    <div class="w-full bg-gw-green h-20 ">
+      <img src="{{asset('images/gw_vlag.svg')}}" class="w-full h-full" />
     </div>
       <h1 class="absolute w-full text-center inset-x-0 top-0 py-5 font-bold text-5xl justify-center">Dorpsschuur</h1>
 <div class="p-2">
@@ -28,8 +28,8 @@
   </span>
 </div>
 </div>
-      <div class="py-2 w-full h-full">
-        <div class="w-full h-full bg-gray-100"></div> 
+      <div class="py-2 w-full h-auto">
+        <div class="w-full bg-grey-100 h-full"></div> 
       </div>
   </div>
   @livewireScripts

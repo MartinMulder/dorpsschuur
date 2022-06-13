@@ -535,6 +535,9 @@ video {
 .bottom-0 {
   bottom: 0px;
 }
+.left-0 {
+  left: 0px;
+}
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -605,6 +608,9 @@ video {
 }
 .h-6 {
   height: 1.5rem;
+}
+.h-auto {
+  height: auto;
 }
 .min-h-screen {
   min-height: 100vh;

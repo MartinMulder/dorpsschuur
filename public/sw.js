@@ -11,6 +11,7 @@ self.addEventListener("install", function (event) {
 
 const filesToCache = [
     '/',
+    '/images/gw_vlag.svg',
     '/offline.html'
 ];
 

@@ -1,0 +1,18 @@
+{
+    "name": "Dorpsschuur",
+    "short_name": "Dorpsschuur",
+    "start_url": "/index.php",
+    "background_color": "#ffff00",
+    "description": "Garrelsweer - Dorpsschuur",
+    "display": "standalone",
+    "theme_color": "#ffff00",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "images/gw_vlag.svg",
+            "sizes": "512x512",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
